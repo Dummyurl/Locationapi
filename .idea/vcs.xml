@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidMVVMExample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVMNews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MaterialDesignDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mitch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Restaurants" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commuteckdrive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvm-sample-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tic" vcs="Git" />
+  </component>
+</project>
